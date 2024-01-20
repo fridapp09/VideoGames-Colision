@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Act2-Colision/1.0.0": {
+        "runtime": {
+          "Act2-Colision.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Act2-Colision/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
